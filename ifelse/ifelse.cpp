@@ -2,8 +2,8 @@
 
 int main()
 {
-    int a = 23;
-    int b = 268;
+    int a, b;
+    std::cin >> a >> b;
 
     if(a > b)
     {
